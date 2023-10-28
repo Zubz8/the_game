@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="red">
+        <item name="android:layout_width">119dp</item>
+        <item name="android:layout_height">93dp</item>
+        <item name="android:background">@android:color/background_dark</item>
+        <item name="android:backgroundTint">#D7FB0404</item>
+    </style>
+
+    <style name="wide" parent="Widget.AppCompat.Button.Small">
+        <item name="android:background">#F80404</item>
+        <item name="android:rotationX">-360</item>
+        <item name="android:textAppearance">@style/TextAppearance.AppCompat.Large</item>
+    </style>
+</resources>
